@@ -18,5 +18,14 @@ def using_pop
 end
 
 def pop_with_args
+  famous_cats=["lil' bub", "grumpy cat","Maru"]
+  maru_grumpy_cat_cats=famous_cats.pop
+  p famous_cats
+  p maru_cat
+  p grumpy_cat
+end
+
+def using_shift
+  
   
   
